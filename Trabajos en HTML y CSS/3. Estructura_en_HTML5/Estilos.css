@@ -1,0 +1,26 @@
+body{
+    
+    background-color: greenyellow;
+    /*este es un comentario*/
+    font-family: Helvetica,"Trebuchet MS", Verdana, sans-serif;
+
+}
+
+h1{
+    color:aqua;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    color:teal;
+    /*controlamos el temaño de la letra*/
+    font-size: 15;
+}
+
+div h2{
+    /*para encajonar texto*/
+    color:cadetblue;
+}
